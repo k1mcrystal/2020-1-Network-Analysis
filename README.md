@@ -1,4 +1,9 @@
 # Network Analysis
+> Networkx와 Gephi를 활용하여 여러 데이터를 가지고 연습해보았다. 
+
+-------------------------------
+
+
 **1. Networkx**
 - networkx basic
 - networkx with json : using lesmiserables data
@@ -13,6 +18,8 @@
 
 **1. Networkx_kakaotalk**
 - 카카오톡 단톡방 데이터에 적용하여 연습
+
+----------------------
 
 **2. gephi_kakao**
 - 카카오톡 단톡방 데이터에 적용하여 연습
