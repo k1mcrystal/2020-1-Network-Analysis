@@ -14,15 +14,15 @@
 - node centrality, network structure, community detection에 대한 내용 정리
 
 **1. Networkx_subway**
-- 지하철 유동인구 데이터에 적용하여 연습
+- 지하철 유동인구 데이터에 적용
 
 **1. Networkx_kakaotalk**
-- 카카오톡 단톡방 데이터에 적용하여 연습
+- 카카오톡 단톡방 데이터에 적용
 
 ----------------------
 
 **2. gephi_kakao**
-- 카카오톡 단톡방 데이터에 적용하여 연습
+- 카카오톡 단톡방 데이터에 적용
 
 **3. gephi_개념**
 - 직접 제작한 강의 ppt
