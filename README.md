@@ -1,5 +1,5 @@
 # Network Analysis
-> Networkx와 Gephi를 활용하여 network analysis를 여러 데이터에 
+> Networkx와 Gephi를 활용하여 network analysis를 여러 데이터에 적용하는 시도
 
 -------------------------------
 
